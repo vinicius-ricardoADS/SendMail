@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SendMail</string>
+    <string name="to">To:</string>
+    <string name="cc">Cc:</string>
+    <string name="bcc">Bcc:</string>
+    <string name="subject">Subject:</string>
+    <string name="message">Message:</string>
+    <string name="clean">clean</string>
+    <string name="send">send</string>
+</resources>
